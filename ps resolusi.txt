@@ -1,7 +1,8 @@
 PS Resolusi
 1. Konsisten untuk belajar web programming
 2. Menyelesaikan pekerjaan yang dipercayakan kepada saya dengan baik.
-3. Doing - pryaing
-4. Mendokumentasikan pekerjaan yang sudah dilakukan.
-5. Berkolaborasi dengan programmer expert
-6. Tidak segan belajar dengan orang yang lebih muda.
+3. Mendokumentasikan pekerjaan yang sudah dilakukan.
+4. Berkolaborasi dengan programmer expert
+5. Tidak segan belajar dengan orang yang lebih muda.
+6. Cari sumber pebelajaran
+
