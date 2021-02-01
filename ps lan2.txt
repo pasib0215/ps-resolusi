@@ -1,6 +1,8 @@
 Rencana Plan 2
 
 - Membuat website POPSI
+- Perlu memperdalam web base programming
 - Membuat website FarmGen
 - Kelompok Tani
+- Menyussun materi untuk memberikan wawasan ke petani.
 - PKS untuk Petani
